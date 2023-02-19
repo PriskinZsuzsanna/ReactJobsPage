@@ -1,0 +1,84 @@
+.job-container {
+    width: 80%;
+    margin-inline: auto;
+    margin-block: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px #0d1187;
+    padding: 10px 30px;
+    text-align: left;
+    background: #ffffff48;
+    background: #0000ff38;
+    background: #2323c538;
+}
+
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.section {
+    margin-block: 30px;
+}
+
+.job-details-section {
+    margin-bottom: 20px;
+    
+}
+
+.button {
+    padding: 5px 10px;
+    margin: 10px 10px 0 0;
+    border-radius: 5px;
+    color: #170967;
+    font-weight: 500;
+    font-size: 11px;
+    border: none;
+    outline: none;
+    background: none;
+    box-shadow: 1px 1px 4px #170967;
+}
+
+.apply-btn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn {
+    padding: 6px;
+    border-radius: 5px;
+    width: 40%;
+    color: #170967;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    background: none;
+    box-shadow: 1px 1px 4px #170967;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 700px){
+
+    .job-container {
+        width: 93%;
+    }
+
+    .btn {
+        width: 80%;
+        margin-inline: auto;
+    }
+}
+
+@media screen and (max-width: 450px){
+
+    .job-container {
+        width: 95%;
+    }
+
+    .btn {
+        width: 80%;
+        margin-inline: auto;
+    }
+}
+
