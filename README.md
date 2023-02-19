@@ -1,3 +1,29 @@
+### Webler Feladat
+
+- Hozzatok létre egy react projectet react-allas néven.
+- A feladat egy állásportál létrehozása.
+- Hozzatok létre legalább 5 állást. Az állások leírása rátok van bízva.
+- Az állások mindenképp tartalmazzanak:
+	- pozíció neve
+	- állás megejelenésének dátuma
+	- állás leírása
+	- "Jelentkezem" gomb
+- Törekedjetek arra, hogy az ismétlődő részeket külön külön komponensekbe hozzátok létre és az adatok átadására props használata ajánlott.
+- A feladat megoldásához használjatok saját css fájlt és szabadon választott formázást.
+
+### Screenshot
+
+
+### Links
+
+
+
+### Built with
+
+- React
+
+--------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
