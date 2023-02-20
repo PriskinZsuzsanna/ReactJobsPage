@@ -1,0 +1,154 @@
+{
+    "jobs": [
+        {
+            "pozicio": "Senior Cloud Security Engineer",
+            "ceg": "Rufusz Computer Informatika Zrt.",
+            "cim": "1111 Budapest, Budafoki út 59.",
+            "date": "2 órája",
+            "munkaido": "Teljes munkaidő, Home office",
+            "elvarasok": [
+                "Angol Középfok",
+                "3-5 év szakmai tapasztalat",
+                "Középiskola"
+            ],
+            "technologiak": [
+                "Cloud",
+                "Security",
+                "Devops",
+                "AWS",
+                "VPN",
+                "Docker"
+            ],
+            "juttatasok": [
+                "Mobiltelefon",
+                "Szakmai Tréningek",
+                "Nyelvtanulás Támogatása"
+            ],
+            "eszkozok": [
+                "Laptop",
+                "Mobiltelefon"
+            ],
+            "applyText": "Jelentkezem"
+        },
+        {
+            "pozicio": "Devops engineer",
+            "ceg": "LastPass Kft.",
+            "cim": "Flexible workplace - Budapest",
+            "date": "1 napja",
+            "munkaido": "Teljes munkaidő, Alkalmazotti jogviszony",
+            "elvarasok": [
+                "Angol Középfok",
+                "3-5 év szakmai tapasztalat",
+                "Általános iskola"
+            ],
+            "technologiak": [
+                "Azur",
+                "Bash",
+                "Pyton",
+                "Cloud",
+                "Security",
+                "Devops",
+                "AWS",
+                "VPN",
+                "Docker"
+            ],
+            "juttatasok": [
+                "Mobiltelefon",
+                "Szakmai Tréningek",
+                "Cafeteria"
+            ],
+            "eszkozok": [
+                "Laptop"
+            ],
+            "applyText": "Jelentkezem"
+        },
+        {
+            "pozicio": "Full-Stack fejlesztő (Angular, Java)",
+            "ceg": "LastPass Kft.",
+            "cim": "UNIQA Raiffeisen Software Service Kft.",
+            "date": "1 napja",
+            "munkaido": "Teljes munkaidő, Alkalmazotti jogviszony",
+            "elvarasok": [
+                "Angol Középfok",
+                "Német középfok",
+                "3-5 év szakmai tapasztalat",
+                "Középiskola"
+            ],
+            "technologiak": [
+                "Angular",
+                "Java",
+                "Frontend",
+                "Backend",
+                "Vue.",
+                "Git"
+            ],
+            "juttatasok": [
+                "Nyeltanulás támogatása",
+                "Szakmai Tréningek",
+                "Cafeteria"
+            ],
+            "eszkozok": [
+                "Laptop",
+                "Mobiltelefon"
+            ],
+            "applyText": "Jelentkezem"
+        },
+        {
+            "pozicio": "Frontend Fejlesztő",
+            "ceg": "enerhym solutions Kft.",
+            "cim": "9022 Győr",
+            "date": "1 napja",
+            "munkaido": "Teljes munkaidő, Home Office",
+            "elvarasok": [
+                "Angol Középfok",
+                "3-5 év szakmai tapasztalat",
+                "Főiskola"
+            ],
+            "technologiak": [
+                "Angular",
+                "Frontend",
+                "Backend",
+                "Vue.",
+                "Git"
+            ],
+            "juttatasok": [
+                "Nyeltanulás támogatása",
+                "Szakmai Tréningek"
+            ],
+            "eszkozok": [
+                "Laptop",
+                "Monitor",
+                "Headset",
+                "Mobiltelefon"
+            ],
+            "applyText": "Jelentkezem"
+        },
+        {
+            "pozicio": "Full stack developer",
+            "ceg": "GBD Szoftverszolgáltató Zrt.",
+            "cim": "Otthonról végezhető",
+            "date": "2 napja",
+            "munkaido": "Teljes munkaidő, Általános munkarend, Home Office",
+            "elvarasok": [
+                "Angol Középfok",
+                "3-5 év szakmai tapasztalat",
+                "Főiskola"
+            ],
+            "technologiak": [
+                "Go",
+                "Java",
+                "Frontend",
+                "Backend",
+                "Vue.",
+                "Git",
+                "Docker"
+            ],
+            "juttatasok": [
+                "Nyeltanulás támogatása",
+                "Szakmai Tréningek"
+            ],
+            "eszkozok": [],
+            "applyText": "Jelentkezem"
+        }
+    ]
+}

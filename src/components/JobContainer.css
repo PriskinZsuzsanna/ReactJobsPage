@@ -1,5 +1,6 @@
 .job-container {
     width: 80%;
+    max-width: 650px;
     margin-inline: auto;
     margin-block: 30px;
     border-radius: 10px;
@@ -38,6 +39,12 @@
     outline: none;
     background: none;
     box-shadow: 1px 1px 4px #170967;
+}
+
+.button:hover {
+    scale: 1.15;
+    box-shadow: inset 1px 1px 4px #170967;
+    color: #fff;
 }
 
 .apply-btn {
