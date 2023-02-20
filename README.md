@@ -21,6 +21,8 @@
 ### Built with
 
 - React
+- Branch Main: props
+- Branch json: json server - fetch - props
 
 --------------------------------------------------
 
