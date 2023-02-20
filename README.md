@@ -13,10 +13,7 @@
 
 ### Screenshot
 
-
-### Links
-
-
+![Screenshotreact-allas](https://user-images.githubusercontent.com/121173949/220196906-6996b7fa-114b-40df-b8b9-01f5ab3cdd8e.png)
 
 ### Built with
 
