@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJobsPage/static/css/main.8cce30e9.css",
+    "main.js": "/ReactJobsPage/static/js/main.bd5d8a8d.js",
+    "index.html": "/ReactJobsPage/index.html",
+    "main.8cce30e9.css.map": "/ReactJobsPage/static/css/main.8cce30e9.css.map",
+    "main.bd5d8a8d.js.map": "/ReactJobsPage/static/js/main.bd5d8a8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cce30e9.css",
+    "static/js/main.bd5d8a8d.js"
+  ]
+}
